@@ -1,0 +1,18 @@
+[
+  {
+    "bookTitle": "Beyond the Horizon",
+    "bookAuthor": "Jack Turner",
+    "_ISBN": 1234567890130,
+    "numberOfBookCopies": 2,
+    "DateTheBookWasLent": "2024-01-26T20:17:45.127814+03:00",
+    "DateOfDeliveryOfTheBook": "2024-01-24T20:17:45"
+  },
+  {
+    "bookTitle": "Beyond the Horizon",
+    "bookAuthor": "Jack Turner",
+    "_ISBN": 1234567890130,
+    "numberOfBookCopies": 2,
+    "DateTheBookWasLent": "2024-01-26T20:18:21.8931094+03:00",
+    "DateOfDeliveryOfTheBook": "2024-01-23T20:18:21"
+  }
+]

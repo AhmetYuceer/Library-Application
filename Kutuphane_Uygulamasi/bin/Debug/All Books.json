@@ -1,0 +1,233 @@
+[
+  {
+    "bookTitle": "The Adventure Begins",
+    "bookAuthor": "Alice Johnson",
+    "_ISBN": 1234567890121,
+    "numberOfBookCopies": 20,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Lost in Time",
+    "bookAuthor": "Bob Williams",
+    "_ISBN": 1234567890122,
+    "numberOfBookCopies": 15,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Echoes of Silence",
+    "bookAuthor": "Charlie Davis",
+    "_ISBN": 1234567890123,
+    "numberOfBookCopies": 25,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Journey to the Stars",
+    "bookAuthor": "David Miller",
+    "_ISBN": 1234567890124,
+    "numberOfBookCopies": 12,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Secrets of the Forest",
+    "bookAuthor": "Emily Taylor",
+    "_ISBN": 1234567890125,
+    "numberOfBookCopies": 30,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "The Enchanted Garden",
+    "bookAuthor": "Frank Wilson",
+    "_ISBN": 1234567890126,
+    "numberOfBookCopies": 22,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Mysteries of the Ocean",
+    "bookAuthor": "Grace Brown",
+    "_ISBN": 1234567890127,
+    "numberOfBookCopies": 18,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Riddles of the Sphinx",
+    "bookAuthor": "Henry Clark",
+    "_ISBN": 1234567890128,
+    "numberOfBookCopies": 27,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "In the Shadow of Mountains",
+    "bookAuthor": "Ivy Adams",
+    "_ISBN": 1234567890129,
+    "numberOfBookCopies": 15,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Beyond the Horizon",
+    "bookAuthor": "Jack Turner",
+    "_ISBN": 1234567890130,
+    "numberOfBookCopies": 8,
+    "numberOfCopiesOfBooksBorrowed": 4
+  },
+  {
+    "bookTitle": "Skies of Imagination",
+    "bookAuthor": "Katie White",
+    "_ISBN": 1234567890131,
+    "numberOfBookCopies": 28,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Legends of the Desert",
+    "bookAuthor": "Liam Harris",
+    "_ISBN": 1234567890132,
+    "numberOfBookCopies": 19,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Whispers in the Wind",
+    "bookAuthor": "Zoe Taylor",
+    "_ISBN": 1234567890133,
+    "numberOfBookCopies": 18,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "The Silent Symphony",
+    "bookAuthor": "Olivia Turner",
+    "_ISBN": 1234567890134,
+    "numberOfBookCopies": 24,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "City of Dreams",
+    "bookAuthor": "Peter Evans",
+    "_ISBN": 1234567890135,
+    "numberOfBookCopies": 16,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Realm of Shadows",
+    "bookAuthor": "Quinn Miller",
+    "_ISBN": 1234567890136,
+    "numberOfBookCopies": 23,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Eternal Flame",
+    "bookAuthor": "Rachel Scott",
+    "_ISBN": 1234567890137,
+    "numberOfBookCopies": 14,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "The Whispering Woods",
+    "bookAuthor": "Samuel Harris",
+    "_ISBN": 1234567890138,
+    "numberOfBookCopies": 26,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Celestial Harmony",
+    "bookAuthor": "Tina White",
+    "_ISBN": 1234567890139,
+    "numberOfBookCopies": 29,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Starlight Serenade",
+    "bookAuthor": "Ulysses Turner",
+    "_ISBN": 1234567890140,
+    "numberOfBookCopies": 13,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Echoes of Eternity",
+    "bookAuthor": "Victoria Davis",
+    "_ISBN": 1234567890141,
+    "numberOfBookCopies": 31,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "The Crystal Cavern",
+    "bookAuthor": "Walter Martin",
+    "_ISBN": 1234567890142,
+    "numberOfBookCopies": 32,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Astral Odyssey",
+    "bookAuthor": "Xena Adams",
+    "_ISBN": 1234567890143,
+    "numberOfBookCopies": 33,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Dreamscape Chronicles",
+    "bookAuthor": "Yasmine Turner",
+    "_ISBN": 1234567890144,
+    "numberOfBookCopies": 34,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Odyssey of the Mind",
+    "bookAuthor": "Zachary Harris",
+    "_ISBN": 1234567890145,
+    "numberOfBookCopies": 35,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Parallel Realms",
+    "bookAuthor": "Ava Miller",
+    "_ISBN": 1234567890146,
+    "numberOfBookCopies": 36,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Ephemeral Echoes",
+    "bookAuthor": "Bryan Clark",
+    "_ISBN": 1234567890147,
+    "numberOfBookCopies": 37,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Mystical Melodies",
+    "bookAuthor": "Cassandra White",
+    "_ISBN": 1234567890148,
+    "numberOfBookCopies": 38,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Serenade of Stars",
+    "bookAuthor": "Daniel Turner",
+    "_ISBN": 1234567890149,
+    "numberOfBookCopies": 39,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "Everlasting Embers",
+    "bookAuthor": "Ella Davis",
+    "_ISBN": 1234567890150,
+    "numberOfBookCopies": 40,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "test1",
+    "bookAuthor": "test1Y",
+    "_ISBN": 12345678910,
+    "numberOfBookCopies": 100,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "test",
+    "bookAuthor": "deneme",
+    "_ISBN": 54544,
+    "numberOfBookCopies": 10,
+    "numberOfCopiesOfBooksBorrowed": 0
+  },
+  {
+    "bookTitle": "test2",
+    "bookAuthor": "test2",
+    "_ISBN": 142154352,
+    "numberOfBookCopies": 21,
+    "numberOfCopiesOfBooksBorrowed": 0
+  }
+]

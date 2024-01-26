@@ -1,0 +1,11 @@
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\bin\Debug\Kutuphane_Uygulamasi.exe.config
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\bin\Debug\Kutuphane_Uygulamasi.exe
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\bin\Debug\Kutuphane_Uygulamasi.pdb
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.csproj.CopyComplete
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.exe
+C:\Users\ahmet\Documents\GitHub\Staj_Projeleri\Proje_1\Kutuphane_Uygulamasi\obj\Debug\Kutuphane_Uygulamasi.pdb
